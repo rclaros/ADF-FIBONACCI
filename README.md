@@ -1,4 +1,10 @@
-# ADF-FIBONACCI
+## fibonacci
+Optimización de algoritmo Fibonacci con programación funcional para un N de 80.
+
+Donwload and Run by Maven
+
+Resultados de ejecución con iteracción
+
 Fibonacci 80
 ```
 0 => 1
